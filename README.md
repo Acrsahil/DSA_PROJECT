@@ -9,8 +9,6 @@ Project Description.
   <a href="https://github.com/Acrsahil/DSA_PROJECT/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Acrsahil/DSA_PROJECT?style=for-the-badge&color=purple" /></a>
 </p>
 
-![Banner Image](Path to Banner Image)
-
 ## Table of Contents 📚
 
 1. [Installation](#installation-%EF%B8%8F)
